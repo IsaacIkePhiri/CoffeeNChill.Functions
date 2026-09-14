@@ -82,3 +82,5 @@ The Docker image can be pulled with:
 docker pull isaacphiri/coffeechill-functions:v1.0
 
 The project can therefore be run locally using Azure Functions Core Tools, with Docker/Azurite providing local storage and Azure Storage providing the document File Share.
+
+YOUTUBE LINK - https://youtu.be/tHWvaqjqJ0c
